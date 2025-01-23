@@ -53,7 +53,7 @@ public class Math {
     public void setAnswers_1(String answers_1) {
         this.answers_1 = answers_1;
     }
-
+//
     public String getAnswers_2() {
         return answers_2;
     }
